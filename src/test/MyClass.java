@@ -14,6 +14,6 @@ public class MyClass {
         System.out.println("Kot ubeg na yug");
         System.out.println("Lisa ubeg na yug");
         System.out.println("Kit ubeg na yug"); 
-        System.out.println("Los ubeg na yug"); 
+        System.out.println("Korovki ubeg na yug"); 
       }
 }
