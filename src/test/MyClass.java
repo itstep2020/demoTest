@@ -12,7 +12,7 @@ public class MyClass {
     static public void Test()
     {
         System.out.println("Kot ubeg na yug");
-        System.out.println("Kit ubeg na yug");
-        System.out.println("Kit111 ubeg na yug");
-    }
+        System.out.println("Lisa ubeg na yug");
+        System.out.println("Kit ubeg na yug"); 
+      }
 }
