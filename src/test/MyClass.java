@@ -15,5 +15,8 @@ public class MyClass {
         System.out.println("Lisa ubeg na yug");
         System.out.println("Kit ubeg na yug"); 
         System.out.println("Losyarik ubeg na yug"); 
+        
+        
+        System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
       }
 }
