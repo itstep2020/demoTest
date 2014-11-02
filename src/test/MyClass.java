@@ -17,6 +17,6 @@ public class MyClass {
         System.out.println("Losyarik ubeg na yug"); 
         
         
-        System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+        System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
       }
 }
