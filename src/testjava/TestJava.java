@@ -19,6 +19,8 @@ public class TestJava {
         // TODO code application logic here
         System.out.println("Slon ubeg na sever");
         System.out.println("Vtoroy Slon toge ubeg na sever");
+        System.out.println("3 Slon toge ubeg na sever");
+        
         MyClass.Test();
     }
 }
