@@ -16,5 +16,9 @@ public class MyClass {
         System.out.println("Kit ubeg na yug"); 
         System.out.println("Korovki ubeg na yug"); 
         
+        
+        
+        
+        
     }
 }
