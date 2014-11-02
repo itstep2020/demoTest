@@ -13,5 +13,6 @@ public class MyClass {
     {
         System.out.println("Kot ubeg na yug");
         System.out.println("Kit ubeg na yug");
+        System.out.println("Kit111 ubeg na yug");
     }
 }
