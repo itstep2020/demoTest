@@ -12,5 +12,6 @@ public class MyClass {
     static public void Test()
     {
         System.out.println("Kot ubeg na yug");
+        System.out.println("Kit ubeg na yug");
     }
 }
