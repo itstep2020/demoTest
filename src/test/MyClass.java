@@ -9,7 +9,7 @@ package test;
  * @author teacher
  */
 public class MyClass {
-    public void Test()
+    static public void Test()
     {
         System.out.println("Kot ubeg na yug");
     }
